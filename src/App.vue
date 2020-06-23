@@ -11,3 +11,8 @@ export default {
   name: "App"
 };
 </script>
+<style>
+.v-main {
+  background-color: #eeeeee !important;
+}
+</style>
